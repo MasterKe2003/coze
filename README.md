@@ -1,5 +1,5 @@
 # 简介
-一个cow的插件，支持通过[coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy?tab=readme-ov-file)连接到coze实现白嫖chatgpt4.0和dalle3
+一个[cow](https://github.com/zhayujie/chatgpt-on-wechat)的插件，支持通过[coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy?tab=readme-ov-file)连接到coze实现白嫖chatgpt4.0和dalle3
 
 # 使用方法
 1. 配置好[coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy?tab=readme-ov-file)
