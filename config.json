@@ -1,6 +1,6 @@
 {
-    "apiUrl": "https://discord-kebot.ac.softrib.xyz/v1/chat/completions",
-    "apiKey": "masterke666",
-    "channelId":"1199864952266178562",
+    "apiUrl": "https://example.com/v1/chat/completions",
+    "apiKey": "",
+    "channelId":"",
     "createImgPrefix":"dl画"
 }
