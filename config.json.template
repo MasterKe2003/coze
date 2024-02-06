@@ -1,5 +1,6 @@
 {
-    "apikey": "###",
-    "apiurl": "###",
-    "channelId":"###"
+  "apiKey": "xxxxx",  // 在coze-discord-proxy的docker-compose.yml中找到PROXY_SECRET
+  "apiUrl": "xxxxx/v1/chat/completions",  // 在coze-discord-proxy的docker-compose.yml中找到PROXY_URL
+  "channelId": "xxxxx",  // 在coze-discord-proxy的docker-compose.yml中找到CHANNEL_ID
+  "createImgPrefix":"画"   //画图前缀
 }
