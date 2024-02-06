@@ -1,6 +1,0 @@
-{
-    "apiUrl": "https://example.com/v1/chat/completions",
-    "apiKey": "",
-    "channelId":"",
-    "createImgPrefix":"dl画"
-}
